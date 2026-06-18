@@ -171,7 +171,7 @@ Features:
 
 ### Ratings & Cancellations Analysis
 
-![Ratings Dashboard](Screenshots/ratings_cancellation_analysis.png)
+![Ratings Dashboard](Screenshots/ratings_cancellations_analysis.png)
 
 ---
 
